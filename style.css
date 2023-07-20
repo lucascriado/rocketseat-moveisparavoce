@@ -69,4 +69,15 @@ p, #footer {
     right: 0px;
 }
 
-
+@media (max-width: 1100px) {
+    #hero {
+        width: 15rem;
+    }
+    #hero img {
+        width: 15rem;
+    }
+    .line {
+        width: 15rem;
+        margin-top: 2rem;
+    }
+}
